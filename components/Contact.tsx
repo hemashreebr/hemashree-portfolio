@@ -8,25 +8,25 @@ const Contact = () => {
     {
       icon: <FiMail className="w-6 h-6" />,
       label: "Email",
-      value: "hemashree.balraj@email.com",
+      value: "hemab6596@gmail.com",
       href: "mailto:hemab6596@gmail.com"
     },
     {
       icon: <FiLinkedin className="w-6 h-6" />,
       label: "LinkedIn",
-      value: "linkedin.com/in/hemashree-balraj",
+      value: "linkedin.com/in/hemashree19",
       href: "https://www.linkedin.com/in/hemashree19/"
     },
     {
       icon: <FiGithub className="w-6 h-6" />,
       label: "GitHub",
-      value: "github.com/hemashree-balraj",
+      value: "github.com/hemashreebr",
       href: "https://github.com/hemashreebr/aws-projects"
     },
     {
       icon: <FiMapPin className="w-6 h-6" />,
       label: "Location",
-      value: "San Francisco, CA",
+      value: "Your City, State/Country",  // 👈 CHANGE THIS
       href: null
     }
   ]

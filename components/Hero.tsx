@@ -12,7 +12,17 @@ const Hero = () => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
+            className="mb-8"
           >
+            {/* Profile Photo */}
+            <div className="mb-8">
+              <img
+                src="/profile-photo.jpg"
+                alt="Hemashree Balraj"
+                className="w-32 h-32 md:w-40 md:h-40 rounded-full mx-auto shadow-2xl border-4 border-white dark:border-gray-700 object-cover"
+              />
+            </div>
+            
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
               <span className="gradient-text">Hemashree Balraj</span>
             </h1>

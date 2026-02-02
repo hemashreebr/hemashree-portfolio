@@ -8,8 +8,8 @@ const Experience = () => {
     {
       company: "Airbnb",
       role: "Cloud AI/ML Engineer",
-      period: "2022 - Present",
-      location: "San Francisco, CA",
+      period: "2025 - Present",
+      location: "USA",
       description: "Leading cloud AI/ML initiatives and agentic system development",
       achievements: [
         "Architected and deployed agentic AI automation platform serving 10M+ requests/month",
@@ -23,8 +23,8 @@ const Experience = () => {
     {
       company: "Genpact",
       role: "Cloud Engineer",
-      period: "2019 - 2022",
-      location: "New York, NY",
+      period: "2019 - 2023",
+      location: "India",
       description: "Cloud infrastructure and DevOps automation specialist",
       achievements: [
         "Led cloud migration projects using Terraform and CloudFormation, reducing deployment time by 70%",
