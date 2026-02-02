@@ -1,0 +1,2 @@
+This file triggers the GitHub Pages deployment workflow.
+You can delete this file after deployment is successful.
