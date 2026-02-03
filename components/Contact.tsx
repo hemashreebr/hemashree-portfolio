@@ -26,7 +26,7 @@ const Contact = () => {
     {
       icon: <FiMapPin className="w-6 h-6" />,
       label: "Location",
-      value: "Your City, State/Country",  // 👈 CHANGE THIS
+      value: "King of Prussia,Pennsylvania",  // 👈 CHANGE THIS
       href: null
     }
   ]
@@ -136,7 +136,7 @@ const Contact = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href="mailto:hemashree.balraj@email.com"
+                  href="mailto:hemab6596@gmail.com"
                   className="btn-primary"
                 >
                   Send Email
