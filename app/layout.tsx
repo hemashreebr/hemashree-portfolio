@@ -8,6 +8,7 @@ import Footer from '@/components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://hemashreebr.github.io/hemashree-portfolio'),
   title: 'Hemashree Balraj - Cloud & AI/ML Engineer',
   description: 'Cloud & AI/ML Engineer specializing in AWS, Agentic AI, DevOps, and Amazon Connect. 5+ years building production systems.',
   keywords: 'Cloud Engineer, AI/ML Engineer, AWS, DevOps, Agentic AI, Amazon Connect, Terraform, Kubernetes',
@@ -16,6 +17,7 @@ export const metadata: Metadata = {
     title: 'Hemashree Balraj - Cloud & AI/ML Engineer',
     description: 'Cloud & AI/ML Engineer specializing in AWS, Agentic AI, DevOps, and Amazon Connect',
     type: 'website',
+    url: 'https://hemashreebr.github.io/hemashree-portfolio',
   },
 }
 
